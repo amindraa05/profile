@@ -81,7 +81,6 @@ a {
 	margin-top: 16px;
 	border-radius: 32px;
 	border: 1px solid #ff7b51;
-
 	transition: 0.3s;
 }
 
@@ -90,4 +89,20 @@ a {
 	background-color: #ff7b51;
 	color: white;
 	transition: 0.4s;
+}
+
+#ucl {
+	width: 33%;
+}
+
+#ucl img {
+	width: 100%;
+}
+
+#copa {
+	width: 33%;
+}
+
+#copa {
+	width: 100%;
 }
