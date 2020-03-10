@@ -106,3 +106,9 @@ a {
 #copa {
 	width: 100%;
 }
+
+footer {
+	background-color: gray;
+	color: white;
+	padding: 20px;
+}
