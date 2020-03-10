@@ -1,4 +1,43 @@
 
 body {
 	font-family: 'Ubuntu', sans-serif;
+	margin: 0;
+	background-color: orange;
+	padding: 0;
+}
+
+nav {
+	background-color: white;
+	padding: 10px 20px;
+	border-bottom: 1px solid #000
+	box-shadow: 10px 10px 10px;
+	display: fixed;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+	text-align: right;
+	padding-right: 10px;
+}
+
+nav ul li {
+	display: inline-block;
+	padding-right: 20px;
+	text-transform: uppercase;
+	font-family: 'Sen', sans-serif;
+	letter-spacing: 1px;
+}
+
+#logo {
+	padding-left: 10px;
+	height: 55px;
+	width: 55px;
+	float: left;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
 }
